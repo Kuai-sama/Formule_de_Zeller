@@ -1,4 +1,5 @@
-//  24/09/2020      SNIR1       Thomas Bougouin
+//Création : 24/09/2020       Fait par Kuaï     Github:Kuai-sama
+//Modification : 21/01/2021     
 /*
    En fonction d'une date rentrée par l'utilisateur, ce programme permet d'obtenir le jour de ladite date
 */
@@ -9,21 +10,19 @@ using namespace std;//simplifie l'ecriturte du code, utilise le nom d'espace sta
 int main()      //fonction principale
 {
     unsigned int jour=0, mois=0, anee,debutAnee=0, finAnee=0;//déclaration et initialisation des variables
-    SetConsoleOutputCP(CP_UTF8);                            //pour afficher les caractères spéciaux
+    SetConsoleOutputCP(CP_UTF8);                            //permet d'afficher les caractères spéciaux
 
-    //afficher sur la console(de l.14 à l.20)
     cout << "                       Formule de Zeller" << endl;
     cout << "Permet de déterminer le jour en fonction d'une date donée" << endl;
-    cout << "Fait par BOUGOUIN Thomas" << endl;
     cout << "La date est sous forme jour -> mois -> anée" << endl;
 
     cout << "Saississez un nombre compris entre 1 et 31 pour le jour : ";
-    cin >>jour;//rentre l'information du jour via le clavier
+    cin >>jour;
+   
+    cout << "Saississez un nombre compris entre 1 et 12 pour le mois : ";
+    cin >>mois;
 
-    cout << "Saississez un nombre compris entre 1 et 12 pour le mois : ";//afficher sur la console
-    cin >>mois;//rentre l'information du mois via le clavier
-
-    cout << "Saississez un nombre pour l'anée : ";//afficher sur la console
+    cout << "Saississez un nombre pour l'anée : ";
     cin >>anee;//rentre l'information de l'anée via le clavier
 
     if(mois==1)//Si le mois est égal à 1(janvier)
@@ -46,32 +45,32 @@ int main()      //fonction principale
   switch(reste)//selon le reste
   {
     case 1://cas 1
-    cout << "Le jour corespondant à cette date est samedi"<<endl;//afficher sur la console
+    cout << "Le jour corespondant à cette date est samedi"<<endl;
     break;//Sort du switch
 
     case 2://Cas 2
-    cout << "Le jour corespondant à cette date est lundi"<<endl;//afficher sur la console
+    cout << "Le jour corespondant à cette date est lundi"<<endl;
     break;//Sort du switch
 
     case 3://Cas 3
-    cout << "Le jour corespondant à cette date est mardi"<<endl;//afficher sur la console
+    cout << "Le jour corespondant à cette date est mardi"<<endl;
     break;//Sort du switch
 
     case 4://Cas 4
-    cout << "Le jour corespondant à cette date est mercredi"<<endl;//afficher sur la console
+    cout << "Le jour corespondant à cette date est mercredi"<<endl;
     break;//Sort du switch
 
     case 5://Cas 5
-    cout << "Le jour corespondant a cette date est jeudi"<<endl;//afficher sur la console
+    cout << "Le jour corespondant a cette date est jeudi"<<endl;
     break;//Sort du switch
 
     case 6://Cas 6
-    cout << "Le jour corespondant à cette date est vendredi"<<endl;//afficher sur la console
+    cout << "Le jour corespondant à cette date est vendredi"<<endl;
     break;//Sort du switch
 
     default://Cas par défault
-    cout << "Le jour corespondant a cette date est dimanche"<<endl;//afficher sur la console
+    cout << "Le jour corespondant a cette date est dimanche"<<endl;
     break;//Sort du switch
   }
-    return 0; // la fonction renvoie la valeur 0
+    return 0; //0 est renvoyé à la fonction
 }
