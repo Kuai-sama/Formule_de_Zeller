@@ -37,7 +37,7 @@ int main()
 
     debutAnnee=(annee/100);//On divise par 100 pour obtenir les deux premiers chiffre de l'année
 
-    finAnnee=(annee-(debutAn,ee*100));//Soustrait le nombre de départ au nombre rond, pour obtenir les deux derniers chiffre de l'année
+    finAnnee=(annee-(debutAnnee*100));//Soustrait le nombre de départ au nombre rond, pour obtenir les deux derniers chiffre de l'année
 
     int resulta t= jour+(2.6*(mois+1))+(debutAnnee/4)+(5*debutAnnee+finAnnee)+(finAnnee/4);//Calcul via la formule de zeller
     unsigned int reste=resultat%7;//On cherche le reste du resultat divisé par 7, pour trouver le jour correspondant
