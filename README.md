@@ -43,16 +43,25 @@ Code avec l'espace de nom standard (using namespace std;)
  Lancer 
  
  Lancer un éditeur de texte (ex: notepad)
+ 
  Copier le code du fichier (main.cpp) dans ce fichier
+ 
  Sauvegarder en main.cpp
+ 
  Ouvrir le terminal(cmd)
+ 
  Déplacer vous à l'endroit de votre fichier
+ 
  Taper la commande La fonction `g++ main.cpp -o Zeller` 
+ 
  La commande -o permet de créer un .exe au nom de Zeller
+ 
  Taper Zeller ou Zeller.exe pour lancer le programme
  
  3-Téléchrager le .exe
+ 
  Lancer le .exe
+ 
  
  
  
