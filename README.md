@@ -31,4 +31,28 @@ Boucle:<br>
 Code avec l'espace de nom standard (using namespace std;)
 
 -------------------------------------------
-
+# Comment éxécuter le programme?
+1. Télécharger QT creator
+       Voici un lien pour vous aider [Téléchargemnt de QT 6.0](https://guillaumebelz.github.io/qt6/installation/)
+       Creer un nouveau main.cpp (mettre image)
+       Copier le code de mon fichier main.cpp
+      
+ 2. Installer le compilateur [MinGW](https://sourceforge.net/projects/mingw/files/latest/download)
+ 
+ Lancer le .exe et installer le compilateur
+ Lancer 
+ 
+ Lancer un éditeur de texte (ex: notepad)
+ Copier le code du fichier (main.cpp) dans ce fichier
+ Sauvegarder en main.cpp
+ Ouvrir le terminal(cmd)
+ Déplacer vous à l'endroit de votre fichier
+ Taper la commande La fonction `g++ main.cpp -o Zeller` 
+ La commande -o permet de créer un .exe au nom de Zeller
+ Taper Zeller ou Zeller.exe pour lancer le programme
+ 
+ 3-Téléchrager le .exe
+ Lancer le .exe
+ 
+ 
+ 
