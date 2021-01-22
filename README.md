@@ -34,7 +34,9 @@ Code avec l'espace de nom standard (using namespace std;)
 # Comment éxécuter le programme?
 1. Télécharger QT creator
        Voici un lien pour vous aider [Téléchargemnt de QT 6.0](https://guillaumebelz.github.io/qt6/installation/)
+       
        Creer un nouveau main.cpp (mettre image)
+       
        Copier le code de mon fichier main.cpp
       
  2. Installer le compilateur [MinGW](https://sourceforge.net/projects/mingw/files/latest/download)
