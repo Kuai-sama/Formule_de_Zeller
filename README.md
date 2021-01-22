@@ -32,35 +32,27 @@ Code avec l'espace de nom standard (using namespace std;)
 
 -------------------------------------------
 # Comment éxécuter le programme?
-1. Télécharger QT creator
-       Voici un lien pour vous aider [Téléchargemnt de QT 6.0](https://guillaumebelz.github.io/qt6/installation/)
-       
-       Creer un nouveau main.cpp (mettre image)
-       
-       Copier le code de mon fichier main.cpp
+1. Télécharger QT creator :
+
+* Voici un lien pour vous aider [Téléchargemnt de QT 6.0](https://guillaumebelz.github.io/qt6/installation/)<br>
+*  Creer un nouveau main.cpp (mettre image)<br>
+*   Copier le code de mon fichier main.cpp<br>
       
- 2. Installer le compilateur [MinGW](https://sourceforge.net/projects/mingw/files/latest/download)
+2. Installer le compilateur [MinGW](https://sourceforge.net/projects/mingw/files/latest/download)
  
- Lancer le .exe et installer le compilateur
- Lancer 
+* Lancer le .exe et installer le compilateur<br>
+
+ * Lancer un éditeur de texte (ex: notepad)
  
- Lancer un éditeur de texte (ex: notepad)
+ * Copier le code du fichier [main.cpp](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/main.cpp) dans ce fichier
  
- Copier le code du fichier (main.cpp) dans ce fichier
+ * Sauvegarder en main.cpp
  
- Sauvegarder en main.cpp
+* Ouvrir le terminal(cmd) et déplacer vous à l'endroit de votre fichier
+* Taper la commande La fonction `g++ main.cpp -o Zeller`. La commande -o permet de créer un .exe au nom de Zeller
+* Taper Zeller ou Zeller.exe pour lancer le programme
  
- Ouvrir le terminal(cmd)
- 
- Déplacer vous à l'endroit de votre fichier
- 
- Taper la commande La fonction `g++ main.cpp -o Zeller` 
- 
- La commande -o permet de créer un .exe au nom de Zeller
- 
- Taper Zeller ou Zeller.exe pour lancer le programme
- 
- 3-Téléchrager le .exe
+ 3-Téléchrager le [.exe](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/Zeller.exe)
  
  Lancer le .exe
  
