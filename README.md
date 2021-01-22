@@ -6,7 +6,12 @@ La Formule de Zeller permet de trouver le jour de la semaine d'une date donnée 
 
 La forule de Zeller est la suivante:
 
-<ins>k = q + [2,6(m + 1)] + [s/4] - 2s + d + [d/4]<ins>.
+```json
+{
+  k = q + [2,6(m + 1)] + [s/4] - 2s + d + [d/4].
+}
+```
+
 
 q étant le quantième, m est le rang du mois dans l'année sauf pour janvier et février qui sont considérés comme les 13e et 14e de l’année précédente, s est la partie séculaire de l’année et d les deux derniers chiffres de l’année, le jour de la semaine est le reste de la division par 7 de k où [ ] désigne la partie entière.
 
