@@ -34,15 +34,16 @@ Si k est négatif, on fait alors (7n + k) où n est choisi de façon à ce que l
 
     - Voici un lien pour vous aider [Téléchargemnt de QT 6.0](https://guillaumebelz.github.io/qt6/installation/)
     - Creer un nouveau main.cpp (mettre image)
-    - Copier le code de mon fichier [main.cpp](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/main.cpp
+    - Copier le code de mon fichier [main.cpp](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/main.cpp)
       
 2. Installer le compilateur [MinGW](https://sourceforge.net/projects/mingw/files/latest/download)
  
     - Lancer le .exe et installer le compilateur
     - Lancer un éditeur de texte (ex: bloc-notes)
     - Copier le code du fichier [main.cpp](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/main.cpp) dans ce fichier
-    - Sauvegarder en  main.cpp
-    - Ouvrir le terminal(cmd) et déplacer vous à l'endroit de votre fichier
+    - Sauvegarder en main.cpp
+    - Ouvrir le terminal(cmd) et déplacer vous à l'endroit de votre fichier<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex : J'ai mon dossier "Zeller" avec mon .cpp dans celui-ci, il me suffit de faire cd Desktop/Zeller
     - Taper la commande La fonction `g++ main.cpp -o Zeller`. La commande -o permet de créer un .exe au nom de Zeller
     - Taper Zeller ou Zeller.exe dans le terminal pour lancer le programme
  
