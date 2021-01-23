@@ -1,4 +1,4 @@
-# Formule-de-Zeller (en cours d'écriture)
+# Formule de Zeller ou Congruence de Zeller
 
 --------------------------
 
