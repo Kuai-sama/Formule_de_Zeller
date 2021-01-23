@@ -23,6 +23,7 @@ Si k est négatif, on fait alors (7n + k) où n est choisi de façon à ce que l
 # Notions abordés:
 
 - Variables
+- Décrémentation
 - Boucles:
     - switch()
     - if<br>   
