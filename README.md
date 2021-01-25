@@ -60,9 +60,9 @@ OU<br>
     - Lancer le .exe et installer le compilateur
     - Vous pouvez télécharger mon code et l'éxécuter avec Qt<bR>
 OU<br>
-&nbsp;&nbsp;&nbsp;; - Lancer un éditeur de texte (ex: bloc-notes)<br>
-&nbsp;&nbsp;&nbsp;; - Copier le code du fichier [main.cpp](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/main.cpp) dans ce fichier<br>
-&nbsp;&nbsp;&nbsp;; - Sauvegarder en main.cpp<br>
+&nbsp;&nbsp;&nbsp; - Lancer un éditeur de texte (ex: bloc-notes)<br>
+&nbsp;&nbsp;&nbsp; - Copier le code du fichier [main.cpp](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/main.cpp) dans ce fichier<br>
+&nbsp;&nbsp;&nbsp; - Sauvegarder en main.cpp<br>
     - Ouvrir le terminal(cmd) et déplacer vous à l'endroit de votre dossier là ou il y a votre fichier<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ex : J'ai mon .cpp dans mon dossier "Zeller", il me suffit de faire cd Desktop/Zeller
     - Taper la commande `g++ main.cpp -o Zeller`. La commande -o permet de créer un .exe au nom de Zeller
