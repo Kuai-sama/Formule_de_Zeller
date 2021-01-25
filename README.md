@@ -51,7 +51,7 @@ ex: Le samedi = 0<br>
     - Vous pouvez télécharger mon code et l'éxécuter avec Qt<br>
 OU<br>
 &nbsp;&nbsp;&nbsp; - Cliquer dans Fichier sur "Nouveau fichier ou projet" et cliquer sur "Non-QT project" et choisisser "C++ Project"<br>
-&nbsp;&nbsp;&nbsp; - Nommer et enregistrer votre projet puis cliquer sur suivant jusqu'a ce que votre projet soit créer<br>
+&nbsp;&nbsp;&nbsp; - Nommer et enregistrer votre projet puis cliquer sur suivant jusqu'a ce que votre projet soit créé<br>
 &nbsp;&nbsp;&nbsp; - Copier le code de mon fichier [main.cpp](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/main.cpp) dans votre fichier main.cpp<br>
 &nbsp;&nbsp;&nbsp; - Appuyer sur le triangle vert pour lancer le programme.
       
