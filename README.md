@@ -15,13 +15,13 @@ k = k%7
 
 - q et jour sont le quantième, c'est à dire le numéro du jour.
 
-- m et mois sont le numéro du mois sauf pour janvier et février qui sont les 13ème et 14ème mois de l’année précédente
+- m et mois sont le numéro du mois sauf pour janvier et février qui sont les 13ème et 14ème mois de l’année précédente.
 
-- s et debutAnnee sont les deux premiers chiffres de l’année
+- s et debutAnnee sont les deux premiers chiffres de l’année.
 
-- d et finAnnee sont les deux derniers chiffres de l’année
+- d et finAnnee sont les deux derniers chiffres de l’année.
 
-- k est le reste du résultat obtnue divisé par 7 
+- k est le reste du résultat obtnue divisé par 7.
 
 Les jours de la semaine (k) sont numérotés selon leur rang.
 
