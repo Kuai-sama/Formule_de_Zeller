@@ -27,9 +27,9 @@ Les jours de la semaine (k) sont numérotés selon leur rang.
 
 ex: Le samedi = 0<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le dimanche = 1<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le lundi =2<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le mardi= 3<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le jeudi =5<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le lundi = 2<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le mardi = 3<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le jeudi = 5<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le vendredi =6
 
 --------------------------------
