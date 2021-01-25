@@ -47,9 +47,9 @@ ex: Le samedi = 0<br>
 # Comment éxécuter le programme?
 1. Télécharger QT creator :
 
-    - Voici un lien pour vous aider [Téléchargemnt de QT 6.0](https://guillaumebelz.github.io/qt6/installation/)
-    - Vous pouvez télécharger mon code et l'éxécuter avec Qt
-    - OU<br>
+    - Voici un lien pour vous aider [Téléchargemnt de QT 6.0](https://guillaumebelz.github.io/qt6/installation/)<br>
+    - Vous pouvez télécharger mon code et l'éxécuter avec Qt<br>
+OU<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Cliquer dans Fichier sur "Nouveau fichier ou projet" et cliquer sur "Non-QT project" et choisisser "C++ Prject"<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Nommer et enregistrer votre projet puis cliquer sur suivant jusqu'a ce que votre projet soit créer<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Copier le code de mon fichier [main.cpp](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/main.cpp) dans votre fichier main.cpp<br>
@@ -58,8 +58,8 @@ ex: Le samedi = 0<br>
 2. Installer le compilateur [MinGW](https://sourceforge.net/projects/mingw/files/latest/download)
  
     - Lancer le .exe et installer le compilateur
-    - Vous pouvez télécharger mon code et l'éxécuter avec Qt
-    - OU<br>
+    - Vous pouvez télécharger mon code et l'éxécuter avec Qt<bR>
+OU<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Lancer un éditeur de texte (ex: bloc-notes)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Copier le code du fichier [main.cpp](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/main.cpp) dans ce fichier<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Sauvegarder en main.cpp<br>
