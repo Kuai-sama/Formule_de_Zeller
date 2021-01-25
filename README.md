@@ -30,7 +30,7 @@ ex: Le samedi = 0<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le lundi = 2<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le mardi = 3<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le jeudi = 5<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le vendredi =6
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Le vendredi = 6
 
 --------------------------------
 
@@ -71,7 +71,3 @@ OU<br>
  3-Téléchrager le [.exe](https://github.com/Kuai-sama/Formule-de-Zeller/blob/main/Zeller.exe)
  
  Lancer le .exe
- 
- 
- 
- 
