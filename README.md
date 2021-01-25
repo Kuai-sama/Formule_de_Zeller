@@ -34,7 +34,7 @@ ex: Le samedi = 0<br>
 
 --------------------------------
 
-# Notions abordés:
+# Notions abordées:
 
 - Variables
 - Décrémentation
