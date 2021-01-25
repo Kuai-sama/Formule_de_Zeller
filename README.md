@@ -47,7 +47,7 @@ ex: Le samedi = 0<br>
 # Comment éxécuter le programme?
 1. Télécharger QT creator :
 
-    - Voici un lien pour vous aider [Téléchargemnt de QT 6.0](https://guillaumebelz.github.io/qt6/installation/)<br>
+    - Voici un lien pour vous aider pour télécharger [QT 6.0](https://guillaumebelz.github.io/qt6/installation/)<br>
     - Vous pouvez télécharger mon code et l'éxécuter avec Qt<br>
 OU<br>
 &nbsp;&nbsp;&nbsp; - Cliquer dans Fichier sur "Nouveau fichier ou projet" et cliquer sur "Non-QT project" et choisisser "C++ Project"<br>
